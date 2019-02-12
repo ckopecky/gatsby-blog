@@ -1,5 +1,5 @@
 const config = {
-  siteTitle: "Christina Kopecky Lambda Labs Blog", // Site title.
+  siteTitle: "CK Labs Notes", // Site title.
   siteTitleShort: "CK Blog", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Lambda Labs Blog", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
@@ -20,7 +20,7 @@ const config = {
   userLocation: "San Jose, CA", // User location to display in the author segment.
   userAvatar: "https://pbs.twimg.com/profile_images/1094507993993859072/9M9VpQbS_400x400.jpg", // User avatar to display in the author segment.
   userDescription:
-    "Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people.", // User description to display in the author segment.
+    "Hi! I'm Christina. I'm a full-stack web developer and a professional flutist and flute teacher.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
