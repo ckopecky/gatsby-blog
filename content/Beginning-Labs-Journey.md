@@ -22,12 +22,12 @@ The weekend prior to labs, I did some competitive analysis and user/business ass
 
 Screenshot of work on that translated to work done on Technical Design Document:
 
-![User-Business-Assumptions](/public/assets/Screenshot-1.png)
+![User-Business-Assumptions](/static/assets/Screenshot-1.png)
 
-![User-Business-Assumptions](/public/assets/Screenshot-2.png)
+![User-Business-Assumptions](/static/assets/Screenshot-2.png)
 
 
-![Competitive-Analysis](/public/assets/Screenshot-3.png)
+![Competitive-Analysis](/static/assets/Screenshot-3.png)
 
 It was in the competitive analysis that I discovered the need to not have a paywall detracting customers from viewing reviews. Our potential competition did not have a paywall, so why should moviereviews? 
 
@@ -39,7 +39,7 @@ Much of this first day was spent getting a feel for the gitflow of our group and
 
 Personally I made only small changes to the structure of the files ([Link to Trello Card and PR](https://trello.com/c/nOLv6Vm5/16-backend-scaffold-basic-setup)), but then I also created a sanity check on the backend while Michelle was constructing the table for the Users. 
 
-![SanityCheck](/public/assets/Screenshot-4.png)
+![SanityCheck](/static/assets/Screenshot-4.png)
 
 It has been tested and it works! 
 
