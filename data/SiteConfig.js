@@ -5,7 +5,7 @@ const config = {
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://christinakopecky.netlify.com", // Domain of your website without pathPrefix.
   pathPrefix: "/gatsby-blog", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
-  fixedFooter: false, // Whether the footer component is fixed, i.e. always visible
+  fixedFooter: true, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "A Lambda Labs10 Journey.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
@@ -20,7 +20,7 @@ const config = {
   userLocation: "San Jose, CA", // User location to display in the author segment.
   userAvatar: "https://pbs.twimg.com/profile_images/1094507993993859072/9M9VpQbS_400x400.jpg", // User avatar to display in the author segment.
   userDescription:
-    "Hi! I'm Christina. I'm a full-stack web developer and a professional flutist and flute teacher.", // User description to display in the author segment.
+    "Hi! I'm Christina. I'm a full-stack web developer, a professional flutist and a flute teacher.", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
