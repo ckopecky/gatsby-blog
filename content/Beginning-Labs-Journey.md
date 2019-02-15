@@ -2,7 +2,7 @@
 title: "The Beginning of a Lambda Labs Journey"
 cover: "5.jpg"
 category: "Labs"
-date: "2019-02-13"
+date: "2019-02-14"
 slug: "Lambda-Labs-Journey"
 tags:
     - Lambda
@@ -60,6 +60,9 @@ My overall review of the week is positive. We all come from different background
 In preparing for next week, I will go over Luis' videos on Relational Databases (since all of my database experience is in MongoDB) and take a look at the Passport and Stripe documentation. 
 
 It's a full plate but I am enjoying every minute! 
+
+##### Github contribution as of Wednesday evening: 
+![GithubContribution](/static/assets/Screenshot-6.png)
 
 ### Cheers!
 

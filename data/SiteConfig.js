@@ -7,7 +7,6 @@ const config = {
   pathPrefix: "/gatsby-blog", // Prefixes all links. For cases when deployed to example.github.io/gatsby-material-starter/.
   fixedFooter: true, // Whether the footer component is fixed, i.e. always visible
   siteDescription: "A Lambda Labs10 Journey.", // Website description used for RSS feeds/meta description tag.
-  siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   siteGATrackingID: "UA-47311644-4", // Tracking code ID for google analytics.
   postDefaultCategoryID: "Tech", // Default category for posts.
